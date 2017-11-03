@@ -1,2 +1,2 @@
-# ONEPAGE
-projet client Jean Philippy
+# photography
+Photography Template
